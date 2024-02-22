@@ -28,3 +28,18 @@ files.
 See also -
 http://www.freertos.org/FreeRTOS-quick-start-guide.html
 http://www.freertos.org/FAQHelp.html
+
+
+Document:-https://docs.google.com/document/d/1Ag8gjysVS5h3RQIFHJBnE_QXqpWYK_dt07ogBungJAg/edit?usp=sharing
+
+Testing Video:-https://drive.google.com/file/d/1qu8v1ndlHOtX-s3ARcWZUNch0aijpE7B/view?usp=sharing
+
+Walkthrough Video:-https://drive.google.com/drive/folders/1-T8gRaPUcWLvZd4NfXiKYfZo2Y5OTv_C?usp=sharing
+
+Team Backlog:-https://docs.google.com/spreadsheets/d/1Kqc53nyGw7yfROCTGqS87v_jL1Ey4X3m/edit?usp=sharing&ouid=110429786439589700226&rtpof=true&sd=true
+
+@mohamedhejazy74
+@Elpolaky
+@Nada7779
+@moustafaabdelrahim7
+@msayed6789
